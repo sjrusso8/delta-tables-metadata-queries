@@ -1,0 +1,1 @@
+# delta-tables-metadata-queries
